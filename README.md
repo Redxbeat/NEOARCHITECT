@@ -1,6 +1,16 @@
 # NeoArchitect
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blueviolet) ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-lightgrey) ![Next.js](https://img.shields.io/badge/Next.js-16.2.6-black) ![Three.js](https://img.shields.io/badge/Three.js-0.184.0-lightblue) ![OpenAI](https://img.shields.io/badge/OpenAI-API-purple) ![MIT](https://img.shields.io/badge/License-MIT-yellow)
+
 NeoArchitect is a full-stack AI-assisted architecture design platform. It combines a Python FastAPI backend for building synthesis, structural estimates, and CGI rendering with a modern Next.js frontend for interactive visualization and user experience.
+
+## Built With
+
+- Python 3.10+ and FastAPI
+- Next.js 16 with TypeScript and React
+- Three.js for 3D visualization
+- OpenAI / NVIDIA NIM integration for AI chat and generation
+- Tailwind CSS and ESLint in the frontend
 
 ## Repository Structure
 
